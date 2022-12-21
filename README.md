@@ -6,7 +6,7 @@ npm test
 
 ---
 
-https://github.com/woowacourse-precourse/java-onboarding
+https://github.com/woowacourse-precourse/javascript-onboarding
 
 # 미션 - 온보딩
 
